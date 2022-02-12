@@ -22,9 +22,6 @@
   * [5.EMNLP 2021](#5emnlp-2021)
   * [6.EMNLP 2020](#6emnlp-2020)
 
-
-# Chinese_Medical_Natural_Language_Processing_Resources
-
 ## 中文医疗数据集
 
 ### 1.Yidu-S4K：医渡云结构化4K数据集
