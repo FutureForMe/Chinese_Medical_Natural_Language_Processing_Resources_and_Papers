@@ -1,6 +1,6 @@
 # Medical NLP Papers in ACL
-* [ACL 2022](#ACL 2022)
-* [ACL 2021](#ACL 2021)
+* [ACL 2022](#ACL2022)
+* [ACL 2021](#ACL2021)
 
 ## ACL 2022
 
