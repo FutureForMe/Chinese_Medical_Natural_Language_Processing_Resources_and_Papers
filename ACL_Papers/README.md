@@ -1,8 +1,8 @@
 # Medical NLP Papers in ACL
-* [ACL 2022](#ACL2022)
-* [ACL 2021](#ACL2021)
+* [ACL_2022](#ACL_2022)
+* [ACL_2021](#ACL_2021)
 
-## ACL 2022
+## ACL_2022
 
 ### 评测比赛
 CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark
@@ -396,7 +396,7 @@ RuCCoN：俄语临床概念标准化
 论文链接：[https://aclanthology.org/2022.findings-acl.21/](https://aclanthology.org/2022.findings-acl.21/)
 
 
-## ACL 2021
+## ACL_2021
 ### 问题理解
 
 **A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding**
