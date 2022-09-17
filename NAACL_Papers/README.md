@@ -1,6 +1,191 @@
 # Medical NLP Papers in NAACL
+* [NAACL_2022](#NAACL_2022)
+* [NAACL_2021](#NAACL_2021)
 
-## 1.NAACL 2021
+| Year       | main.long | medical workshop | others | finding | total |
+|------------|-----------|------------------|--------|---------|-------|
+| NAACL 2022 | 2         | 12               | 4      | 3       | 21    |
+| NAACL 2021 | 5         | 36               | 10     | 0       | 51    |
+
+## NAACL_2022
+
+### 软件
+
+**User-Driven Research of Medical Note Generation Software**
+
+医学笔记生成软件的用户驱动研究
+
+Award: Best paper on human-centered NLP special theme
+
+论文地址：[https://aclanthology.org/2022.naacl-main.29/](https://aclanthology.org/2022.naacl-main.29/)
+
+
+### 实体链接
+
+**Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning**
+
+通过知识库引导的预训练和同义词感知微调生成生物医学实体链接
+
+论文地址：[https://aclanthology.org/2022.naacl-main.296/](https://aclanthology.org/2022.naacl-main.296/)
+
+
+### 医疗对话
+
+**Few-shot fine-tuning SOTA summarization models for medical dialogues**
+
+用于医学对话的 Few-shot 微调 SOTA 总结模型
+
+论文地址：[https://aclanthology.org/2022.naacl-srw.32/](https://aclanthology.org/2022.naacl-srw.32/)
+
+
+### 多标签分类
+
+**Medical Coding with Biomedical Transformer Ensembles and Zero/Few-shot Learning**
+
+具有生物医学变压器集成和零/少样本学习的医学编码
+
+论文地址：[https://aclanthology.org/2022.naacl-industry.21/](https://aclanthology.org/2022.naacl-industry.21/)
+
+
+**An exploratory data analysis: the performance differences of a medical code prediction system on different demographic groups**
+
+探索性数据分析：医疗代码预测系统对不同人口统计群体的性能差异
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.10/](https://aclanthology.org/2022.clinicalnlp-1.10/)
+
+
+**PLM-ICD: Automatic ICD Coding with Pretrained Language Models**
+
+PLM-ICD：使用预训练语言模型的自动 ICD 编码
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.2/](https://aclanthology.org/2022.clinicalnlp-1.2/)
+
+
+**Literature-Augmented Clinical Outcome Prediction**
+
+文献增强的临床结果预测
+
+论文地址：[https://aclanthology.org/2022.findings-naacl.33/](https://aclanthology.org/2022.findings-naacl.33/)
+
+
+
+### 多任务学习
+
+**In-BoXBART: Get Instructions into Biomedical Multi-Task Learning**
+
+In-BoXBART：获取生物医学多任务学习的说明
+
+论文地址:[https://aclanthology.org/2022.findings-naacl.10/](https://aclanthology.org/2022.findings-naacl.10/)
+
+
+### 数据集
+
+**Pathway2Text: Dataset and Method for Biomedical Pathway Description Generation**
+
+Pathway2Text：生物医学路径描述生成的数据集和方法
+
+论文地址：[https://aclanthology.org/2022.findings-naacl.108/](https://aclanthology.org/2022.findings-naacl.108/)
+
+
+### 缩略词消歧
+
+**m-Networks: Adapting the Triplet Networks for Acronym Disambiguation**
+
+m-Networks：将 Triplet Networks 用于首字母缩略词消歧
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.3/](https://aclanthology.org/2022.clinicalnlp-1.3/)
+
+
+
+### 命名实体识别
+
+**Cross-Language Transfer of High-Quality Annotations: Combining Neural Machine Translation with Cross-Linguistic Span Alignment to Apply NER to Clinical Texts in a Low-Resource Language**
+
+高质量注释的跨语言迁移：将神经机器翻译与跨语言跨度对齐相结合，以低资源语言将 NER 应用于临床文本
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.6/](https://aclanthology.org/2022.clinicalnlp-1.6/)
+
+
+
+### 关系抽取
+
+**Ensemble-based Fine-Tuning Strategy for Temporal Relation Extraction from the Clinical Narrative**
+
+从临床叙事中提取时间关系的基于集成的微调策略
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.11/](https://aclanthology.org/2022.clinicalnlp-1.11/)
+
+
+**Exploring Text Representations for Generative Temporal Relation Extraction**
+
+探索生成时间关系提取的文本表示
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.12/](https://aclanthology.org/2022.clinicalnlp-1.12/)
+
+
+### 问题生成
+
+**Learning to Ask Like a Physician**
+
+学习像医生一样提问
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.8/](https://aclanthology.org/2022.clinicalnlp-1.8/)
+
+
+### 预训练模型
+
+**Clinical Flair: A Pre-Trained Language Model for Spanish Clinical Natural Language Processing**
+
+临床天赋：西班牙临床自然语言处理的预训练语言模型
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.9/](https://aclanthology.org/2022.clinicalnlp-1.9/)
+
+
+### Others
+
+**Assessing Group-level Gender Bias in Professional Evaluations: The Case of Medical Student End-of-Shift Feedback**
+
+在专业评估中评估群体层面的性别偏见：医学生轮班反馈的案例
+
+论文地址：[https://aclanthology.org/2022.gebnlp-1.11/](https://aclanthology.org/2022.gebnlp-1.11/)
+
+
+**“Devils Are in the Details”: Annotating Specificity of Clinical Advice from Medical Literature**
+
+“魔鬼在细节中”：从医学文献中注释临床建议的特异性
+
+论文地址：[https://aclanthology.org/2022.unimplicit-1.3/](https://aclanthology.org/2022.unimplicit-1.3/)
+
+
+**CLPT: A Universal Annotation Scheme and Toolkit for Clinical Language Processing**
+
+CLPT：临床语言处理的通用注释方案和工具包
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.1/](https://aclanthology.org/2022.clinicalnlp-1.1/)
+
+
+**Fine-tuning BERT Models for Summarizing German Radiology Findings**
+
+微调 BERT 模型以总结德国放射学发现
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.4/](https://aclanthology.org/2022.clinicalnlp-1.4/)
+
+
+**RRED : A Radiology Report Error Detector based on Deep Learning Framework**
+
+RRED：基于深度学习框架的放射学报告错误检测器
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.5/](https://aclanthology.org/2022.clinicalnlp-1.5/)
+
+
+**What Do You See in this Patient? Behavioral Testing of Clinical NLP Models**
+
+你在这个病人身上看到了什么？临床 NLP 模型的行为测试
+
+论文地址：[https://aclanthology.org/2022.clinicalnlp-1.7/](https://aclanthology.org/2022.clinicalnlp-1.7/)
+
+
+## NAACL_2021
 ### 本体
 
 The Biomaterials Annotator: a system for ontology-based concept annotation of biomaterials text
