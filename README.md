@@ -1,6 +1,6 @@
 # Chinese_Medical_Natural_Language_Processing_Resources_and_Papers
 
-* [Chinese Medical Natural Language Processing_Resources](#chinese_medical_natural_language_processing_resources)
+* [Chinese Medical Natural Language Processing Resources](#chinese_medical_natural_language_processing_resources)
   * [中文医疗数据集](#中文医疗数据集)
     * [1.Yidu-S4K：医渡云结构化4K数据集](#1yidu-s4k医渡云结构化4k数据集)
     * [2.Yidu-N7K：医渡云标准化7K数据集](#2yidu-n7k医渡云标准化7k数据集)
@@ -14,8 +14,13 @@
     * [分词工具](#分词工具)
       * [PKUSEG](#pkuseg)
   * [友情链接](#友情链接)
+* [Chinese Medical Natural Language Processing Papers](#Chinese_Medical_Natural_Language_Processing_Resources_and_Papers)
+  * [ACL Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/ACL_Papers)
+  * [EMNLP Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/EMNLP_Papers)
+  * [NAACL Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/NAACL_Papers)
+  * [AAAI Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/AAAI_Papers)
 
-### *注：医疗NLP论文汇总md文件及PDF在对应的文件夹中。NAACL 2022正在整理中...
+### *注：医疗NLP论文汇总md文件及PDF在对应的文件夹中。NAACL 2022已更新。
 
 ## 中文医疗数据集
 
