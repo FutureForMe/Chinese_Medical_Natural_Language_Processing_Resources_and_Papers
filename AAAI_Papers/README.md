@@ -1,6 +1,53 @@
 # Medical NLP Papers in AAAI
+* [AAAI 2022](#AAAI_2022)
+* [AAAI 2021](#AAAI_2021)
+* [AAAI 2020](#AAAI_2020)
 
-## 1.AAAI 2021
+## AAAI_2022
+
+**Improving Biomedical Information Retrieval with Neural Retrievers**
+
+使用神经检索器改进生物医学信息检索
+
+论文地址：[https://aaai-2022.virtualchair.net/poster_aaai12929](https://aaai-2022.virtualchair.net/poster_aaai12929)
+
+
+**Clinical-BERT: Vision-Language Pre-Training for Radiograph Diagnosis and Reports Generation**
+
+临床-BERT：用于放射影像诊断和报告生成的视觉语言预训练
+
+论文地址：[https://aaai-2022.virtualchair.net/poster_aaai4013](https://aaai-2022.virtualchair.net/poster_aaai4013)
+
+
+**An End-to-End Traditional Chinese Medicine Constitution Assessment System Based on Multimodal Clinical Feature Representation and Fusion**
+
+基于多模态临床特征表示与融合的端到端中医体质评估系统
+
+论文地址：[https://aaai-2022.virtualchair.net/poster_dm373](https://aaai-2022.virtualchair.net/poster_dm373)
+
+
+**Diaformer: Automatic Diagnosis via Symptoms Sequence Generation**
+
+Diaformer：通过症状序列生成自动诊断
+
+论文地址：[https://aaai-2022.virtualchair.net/poster_aaai5959](https://aaai-2022.virtualchair.net/poster_aaai5959)
+
+
+**Context-Aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs**
+
+通过动态疾病图上的转移函数进行上下文感知健康事件预测
+
+论文地址：[https://aaai-2022.virtualchair.net/poster_aaai6800](https://aaai-2022.virtualchair.net/poster_aaai6800)
+
+
+**Clustering Interval-Censored Time-Series for Disease Phenotyping**
+
+用于疾病表型分析的聚类区间删失时间序列
+
+论文地址：[https://aaai-2022.virtualchair.net/poster_aaai12517](https://aaai-2022.virtualchair.net/poster_aaai12517)
+
+
+## AAAI_2021
 
 Subtype-Aware Unsupervised Domain Adaptation for Medical Diagnosis
 
@@ -31,7 +78,7 @@ MELINDA: A Multimodal Dataset for Biomedical Experiment Method Classification
 
 论文地址：[https://ojs.aaai.org/index.php/AAAI/article/view/17657](https://ojs.aaai.org/index.php/AAAI/article/view/17657)
 
-## 2.AAAI 2020
+## AAAI_2020
 
 Simultaneously Linking Entities and Extracting Relations from Biomedical Text without Mention-Level Supervision
 
