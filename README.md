@@ -19,8 +19,9 @@
   * [EMNLP Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/EMNLP_Papers)
   * [NAACL Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/NAACL_Papers)
   * [AAAI Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/AAAI_Papers)
+  * [COLING Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/COLING_Papers)
 
-### *注：医疗NLP论文汇总md文件及PDF在对应的文件夹中。NAACL 2022已更新。
+### *注：医疗NLP论文汇总md文件及PDF在对应的文件夹中。COLING 2022已更新。
 
 ## 中文医疗数据集
 
