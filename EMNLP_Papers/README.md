@@ -1,6 +1,242 @@
 # Medical NLP Paper
+* [EMNLP_2022](#EMNLP_2022)
+* [EMNLP_2021](#EMNLP_2021)
+* [EMNLP_2020](EMNLP_2020)
 
-## 1.EMNLP 2021
+
+## EMNLP_2022
+
+### 数据集
+
+**[M3: Multi-level dataset for Multi-document summarisation of Medical studies](https://aclanthology.org/2022.findings-emnlp.286.pdf)**
+
+M3：用于医学研究的多文档摘要的多级数据集
+
+**[BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples](https://aclanthology.org/2022.findings-emnlp.374.pdf)**
+
+BioNLI：使用 Lexico-semantic Constraints 为对抗样本生成生物医学 NLI 数据集
+
+**[FrenchMedMCQA: A French Multiple-Choice Question Answering Dataset for Medical domain](https://aclanthology.org/2022.louhi-1.5.pdf)**
+
+FrenchMedMCQA：医学领域的法语多项选择题回答数据集
+
+**[A Large-Scale Dataset for Biomedical Keyphrase Generation](https://aclanthology.org/2022.louhi-1.6.pdf)**
+
+用于生物医学关键词生成的大规模数据集
+
+
+### 预训练模型
+
+**[Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again](https://aclanthology.org/2022.findings-emnlp.329.pdf)**
+
+考虑用于生物医学 IE 的 GPT-3 上下文学习？再想一想
+
+**[BioSimCSE: BioMedical Sentence Embeddings using Contrastive learning](https://aclanthology.org/2022.louhi-1.10.pdf)**
+
+BioSimCSE：使用对比学习的生物医学句子嵌入
+
+**[A Knowledge-Graph-Based Intrinsic Test for Benchmarking Medical Concept Embeddings and Pretrained Language Models](https://aclanthology.org/2022.louhi-1.22.pdf)**
+
+一种基于知识图谱的内在测试，用于对医学概念嵌入和预训练语言模型进行基准测试
+
+**[Large language models are few-shot clinical information extractors](https://aclanthology.org/2022.emnlp-main.130.pdf)**
+
+大型语言模型是少量临床信息提取器
+
+**[ClinicalT5: A Generative Language Model for Clinical Text](https://aclanthology.org/2022.findings-emnlp.398.pdf)**
+
+ClinicalT5：临床文本的生成语言模型
+
+
+### 医疗文本分类/代码预测
+
+**[Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?](https://aclanthology.org/2022.louhi-1.3.pdf)**
+
+当前的可解释性能否帮助在临床注释中提供参考以支持人类注释医疗代码？
+
+**[AnEMIC: A Framework for Benchmarking ICD Coding Models](https://aclanthology.org/2022.emnlp-demos.11.pdf)**
+
+AnEMIC：ICD 编码模型基准测试框架
+
+**[Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding](https://aclanthology.org/2022.findings-emnlp.127.pdf)**
+
+基于知识注入提示的多标签小样本 ICD 编码微调
+
+**[BERT for Long Documents: A Case Study of Automated ICD Coding](https://aclanthology.org/2022.louhi-1.12.pdf)**
+
+用于长文档的 BERT：自动 ICD 编码的案例研究
+
+**[Divide and Conquer: An Extreme Multi-Label Classification Approach for Coding Diseases and Procedures in Spanish](https://aclanthology.org/2022.louhi-1.16.pdf)**
+
+分而治之：用西班牙语编码疾病和程序的极端多标签分类方法
+
+**[Section Classification in Clinical Notes with Multi-task Transformers](https://aclanthology.org/2022.louhi-1.7.pdf)**
+
+使用多任务转换器在临床笔记中进行章节分类
+
+**[Parameter Efficient Transfer Learning for Suicide Attempt and Ideation Detection](https://aclanthology.org/2022.louhi-1.13.pdf)**
+
+用于自杀企图和意念检测的参数高效迁移学习
+
+**[Automatic Patient Note Assessment without Strong Supervision](https://aclanthology.org/2022.louhi-1.14.pdf)**
+
+无需强力监督的自动患者记录评估
+
+
+### 摘要生成
+
+**[Readability Controllable Biomedical Document Summarization](https://aclanthology.org/2022.findings-emnlp.343.pdf)**
+
+可读性可控的生物医学文献摘要
+
+**[MedicalSum: A Guided Clinical Abstractive Summarization Model for Generating Medical Reports from Patient-Doctor Conversations](https://aclanthology.org/2022.findings-emnlp.349.pdf)**
+
+MedicalSum：一种用于从医患对话中生成医学报告的指导性临床抽象摘要模型
+
+**[Curriculum-guided Abstractive Summarization for Mental Health Online Posts](https://aclanthology.org/2022.louhi-1.17.pdf)**
+
+心理健康在线帖子的课程指导抽象摘要
+
+
+### 多模态
+
+**[That’s the Wrong Lung! Evaluating and Improving the Interpretability of Unsupervised Multimodal Encoders for Medical Data](https://aclanthology.org/2022.emnlp-main.238.pdf)**
+
+那是错误的肺！评估和改进无监督多模态医疗数据编码器的可解释性
+
+**[PM2F2N: Patient Multi-view Multi-modal Feature Fusion Networks for Clinical Outcome Prediction](https://aclanthology.org/2022.findings-emnlp.144.pdf)**
+
+PM2F2N：用于临床结果预测的患者多视图多模态特征融合网络
+
+**[Improving information fusion on multimodal clinical data in classification settings](https://aclanthology.org/2022.louhi-1.18.pdf)**
+
+改进分类设置中多模态临床数据的信息融合
+
+
+### 文本图像配对
+
+**[MedCLIP: Contrastive Learning from Unpaired Medical Images and Text](https://aclanthology.org/2022.emnlp-main.256.pdf)**
+
+MedCLIP：未配对医学图像和文本的对比学习
+
+
+### 本体
+
+**[BioLORD: Learning Ontological Representations from Definitions for Biomedical Concepts and their Textual Descriptions](https://aclanthology.org/2022.findings-emnlp.104.pdf)**
+
+BioLORD：从生物医学概念的定义及其文本描述中学习本体论表示
+
+
+### 命名实体识别
+
+**[Hardness-guided domain adaptation to recognise biomedical named entities under low-resource scenarios](https://aclanthology.org/2022.emnlp-main.271.pdf)**
+
+硬度引导的域自适应识别低资源场景下的生物医学命名实体
+
+**[MedJEx: A Medical Jargon Extraction Model with Wiki’s Hyperlink Span and Contextualized Masked Language Model Score](https://aclanthology.org/2022.emnlp-main.805.pdf)**
+
+MedJEx：具有 Wiki 的超链接跨度和上下文化掩码语言模型分数的医学术语提取模型
+
+**[Distinguishing between focus and background entities in biomedical corpora using discourse structure and transformers](https://aclanthology.org/2022.louhi-1.4.pdf)**
+
+使用话语结构和转换器区分生物医学语料库中的焦点实体和背景实体
+
+**[Assessing the Limits of Straightforward Models for Nested Named Entity Recognition in Spanish Clinical Narratives](https://aclanthology.org/2022.louhi-1.2.pdf)**
+
+评估西班牙临床叙述中嵌套命名实体识别的直接模型的局限性
+
+
+### 关系抽取
+
+**[Condition-Treatment Relation Extraction on Disease-related Social Media Data](https://aclanthology.org/2022.louhi-1.24.pdf)**
+
+疾病相关社交媒体数据条件-治疗关系抽取
+
+
+### 术语规范化
+
+**[Generalizing over Long Tail Concepts for Medical Term Normalization](https://aclanthology.org/2022.emnlp-main.588.pdf)**
+
+推广医学术语规范化的长尾概念
+
+
+### 实体链接
+
+**[Knowledge-Rich Self-Supervision for Biomedical Entity Linking](https://aclanthology.org/2022.findings-emnlp.61.pdf)**
+
+生物医学实体链接的知识丰富的自我监督
+
+**[Proxy-based Zero-Shot Entity Linking by Effective Candidate Retrieval](https://aclanthology.org/2022.louhi-1.11.pdf)**
+
+通过有效的候选检索进行基于代理的零样本实体链接
+
+
+### 对话
+
+**[A Speaker-Aware Co-Attention Framework for Medical Dialogue Information Extraction](https://aclanthology.org/2022.emnlp-main.315.pdf)**
+
+用于医学对话信息提取的说话人感知共同注意框架
+
+**[Exploring the Influence of Dialog Input Format for Unsupervised Clinical Questionnaire Filling](https://aclanthology.org/2022.louhi-1.1.pdf)**
+
+探索对话输入格式对无监督临床问卷填写的影响
+
+
+### 问答
+
+**[MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs](https://aclanthology.org/2022.emnlp-demos.15.pdf)**
+
+MedConQA：基于知识图谱的医学会话问答系统
+
+
+### 其它
+
+**[BioReader: a Retrieval-Enhanced Text-to-Text Transformer for Biomedical Literature](https://aclanthology.org/2022.emnlp-main.390.pdf)**
+
+BioReader：用于生物医学文献的检索增强型文本到文本转换器
+
+**[Building a Clinically-Focused Problem List From Medical Notes](https://aclanthology.org/2022.louhi-1.8.pdf)**
+
+从医疗记录中构建以临床为重点的问题列表
+
+**[Specializing Static and Contextual Embeddings in the Medical Domain Using Knowledge Graphs: Let’s Keep It Simple](https://aclanthology.org/2022.louhi-1.9.pdf)**
+
+使用知识图在医学领域专门化静态和上下文嵌入：让我们保持简单
+
+**[Enriching Deep Learning with Frame Semantics for Empathy Classification in Medical Narrative Essays](https://aclanthology.org/2022.louhi-1.23.pdf)**
+
+用框架语义丰富深度学习，用于医学叙事论文中的移情分类
+
+**[Integration of Heterogeneous Knowledge Sources for Biomedical Text Processing](https://aclanthology.org/2022.louhi-1.25.pdf)**
+
+生物医学文本处理的异构知识源整合
+
+**[Towards Intelligent Clinically-Informed Language Analyses of People with Bipolar Disorder and Schizophrenia](https://aclanthology.org/2022.findings-emnlp.208.pdf)**
+
+对双相情感障碍和精神分裂症患者进行智能的临床知情语言分析
+
+**[Trial2Vec: Zero-Shot Clinical Trial Document Similarity Search using Self-Supervision](https://aclanthology.org/2022.findings-emnlp.476.pdf)**
+
+Trial2Vec：使用自我监督的零样本临床试验文档相似性搜索
+
+**[DDI-MuG: Multi-aspect Graphs for Drug-Drug Interaction Extraction](https://aclanthology.org/2022.louhi-1.15.pdf)**
+
+DDI-MuG：用于药物相互作用提取的多方面图
+
+**[How Long Is Enough? Exploring the Optimal Intervals of Long-Range Clinical Note Language Modeling](https://aclanthology.org/2022.louhi-1.19.pdf)**
+
+多长时间才够？探索远程临床笔记语言建模的最佳区间
+
+**[A Quantitative and Qualitative Analysis of Schizophrenia Language](https://aclanthology.org/2022.louhi-1.20.pdf)**
+
+精神分裂症语言的定量和定性分析
+
+**[Exploring Hybrid and Ensemble Models for Multiclass Prediction of Mental Health Status on Social Media](https://aclanthology.org/2022.louhi-1.21.pdf)**
+
+探索社交媒体心理健康状况多类预测的混合和集成模型
+
+
+## EMNLP_2021
 ### 文本分类
 
 **Classification of hierarchical text using geometric deep learning: the case of clinical trials corpus**
@@ -195,7 +431,7 @@ MSˆ2：医学研究的多文档摘要
 
 
 
-## 2.EMNLP 2020
+## EMNLP_2020
 
 Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition
  
