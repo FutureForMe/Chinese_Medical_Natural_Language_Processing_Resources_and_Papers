@@ -21,7 +21,8 @@
   * [AAAI Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/AAAI_Papers)
   * [COLING Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/COLING_Papers)
 
-### *注：医疗NLP论文汇总md文件及PDF在对应的文件夹中。COLING 2022已更新。
+### 🔥 News
+- 医疗NLP论文汇总之EMNLP 2022已更新！
 
 ## 中文医疗数据集
 
