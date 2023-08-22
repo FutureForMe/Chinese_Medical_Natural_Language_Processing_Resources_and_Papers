@@ -22,7 +22,35 @@
   * [COLING Papers](https://github.com/FutureForMe/Chinese_Medical_Natural_Language_Processing_Resources_and_Papers/tree/main/COLING_Papers)
 
 ### 🔥 News
-- 医疗NLP论文汇总之EMNLP 2022已更新！
+- 更新中文医学大模型汇总！
+
+## 中文医学大模型汇总
+
+| 模型名称         | 基座模型                                | 发表单位                                 | 发布时间  | 相关网址                                                     |
+| ---------------- | --------------------------------------- | ---------------------------------------- | --------- | ------------------------------------------------------------ |
+| 华佗GPT          | Baichuan-7B, Ziya-LLaMA-13B-Pretrain-v1 | 香港中文大学(深圳)                       | 2023.5.25 | [[Github]](https://github.com/FreedomIntelligence/HuatuoGPT) , [[Paper]](https://arxiv.org/pdf/2305.15075.pdf) , [[Demo]](https://www.huatuogpt.cn/) |
+| 扁鹊             | ChatGLM-6B                              | 华南理工大学                             | 2023.4.22 | [[Github]](https://github.com/scutcyr/BianQue), [[Demo]](https://huggingface.co/spaces/scutcyr/BianQue) |
+| 仲景             | Ziya-LLaMA-13B                          | 郑州大学（自然语言处理实验室）           | 2023.8.10 | [[Github]](https://github.com/SupritYoung/Zhongjing), [[Paper]](https://arxiv.org/pdf/2308.03549.pdf) |
+| 孙思邈           | baichuan-7B, ChatGLM-6B                 | 华东理工大学                             | 2023.6.21 | [[Github]](https://github.com/thomas-yanxin/Sunsimiao)       |
+| 启真             | ChatGLM-6B, Chinese-LLaMA-7B, CaMA-13B  | 浙江大学                                 | 2023.5.23 | [[Github]](https://github.com/CMKRG/QiZhenGPT)               |
+| 神农             | LLaMA-7B                                | 华东师范大学                             | 2023.6.21 | [[Github]](https://github.com/michael-wzhu/ShenNong-TCM-LLM) |
+| 本草             | LLaMA-7B, Bloom-7B                      | 哈尔滨工业大学（赛尔实验室）             | 2023.3.31 | [[Github]](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese), [[Paper]](https://arxiv.org/pdf/2304.06975.pdf) |
+| MeChat           | ChatGLM-6B                              | 西湖大学，浙江大学                       | 2023.4.30 | [[Github]](https://github.com/qiuhuachuan/smile), [[Paper]](https://arxiv.org/pdf/2305.00450.pdf), [[Demo]](https://mechat.fly.dev/) |
+| 灵心             | ChatGLM-6B                              | 华南理工大学（同扁鹊）                   | 2023.6.6  | [[Github]](https://github.com/scutcyr/SoulChat)              |
+| 明医             | Bloomz-7B                               | 上海交通大学（未来媒体网络协同创新中心） | 2023.7.25 | [[Github]](https://github.com/MediaBrain-SJTU/MING)          |
+| PULSE            | Bloomz-7b-mt                            | 上海人工智能实验室                       | 2023.6    | [[Github]](https://github.com/openmedlab/PULSE)              |
+| DoctorGLM        | ChatGLM-6B                              | 上海科技大学                             | 2023.4.18 | [[Github]](https://github.com/xionghonglin/DoctorGLM)        |
+| ChatMed          | LLaMA-7B                                | 华东师范大学（同神农）                   | 2023.5.5  | [[Github]](https://github.com/michael-wzhu/ChatMed)          |
+| MedicalGPT       | baichuan, LLaMA, ChatGLM, Bloomz        | 徐明（个人）                             | 2023.6.5  | [[Github]](https://github.com/shibing624/MedicalGPT)         |
+| 山海             | --                                      | 云知声（企业）                           | --        | [[Demo]](https://shanhai.unisound.com/)                      |
+| 左手GPT          | --                                      | 左手医生（企业）                         | --        | [[Demo]](https://gpt.zuoshouyisheng.com/)                    |
+| XrayGLM [多模态] | VisualGLM-6B                            | 澳门理工大学                             | 2023.5    | [[Github]](https://github.com/WangRongsheng/XrayGLM)         |
+
+*如有遗漏或信息错误可联系提issue告知作者
+
+
+
+
 
 ## 中文医疗数据集
 
