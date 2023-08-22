@@ -46,7 +46,7 @@
 | 左手GPT          | --                                      | 左手医生（企业）                         | --        | [[Demo]](https://gpt.zuoshouyisheng.com/)                    |
 | XrayGLM [多模态] | VisualGLM-6B                            | 澳门理工大学                             | 2023.5    | [[Github]](https://github.com/WangRongsheng/XrayGLM)         |
 
-*如有遗漏或信息错误可联系提issue告知作者
+*如有遗漏或信息错误可提issue告知作者
 
 
 
